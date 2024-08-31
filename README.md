@@ -1,5 +1,5 @@
 📚 Library Management System 📚
-Welcome to the Library Management System built with JavaScript! 🎉📖 Whether you're a librarian or just a book lover, this system will help you keep track of your collection with ease.
+Welcome to the Library Management System built by Mayur Bhat 🎉📖 Whether you're a librarian or just a book lover, this system will help you keep track of your collection with ease.
 
 🌟 Features
 Add Books: Easily add new books with a unique identifier (ISBN), title, author, and publication year. 📚✨
